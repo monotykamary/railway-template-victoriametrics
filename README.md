@@ -2,7 +2,7 @@
 
 [![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/victoriametrics?referralCode=ZqgrJ0)
 
-A secure, persistent Railway template for the single-node edition of [VictoriaMetrics](https://victoriametrics.com/), pinned to version `1.149.0`. It includes the built-in VMUI, Prometheus-compatible ingestion and query APIs, Basic Authentication, self-monitoring, and durable storage.
+A secure, persistent Railway template for the single-node edition of [VictoriaMetrics](https://victoriametrics.com/), pinned to version `1.150.0`. It includes the built-in VMUI, Prometheus-compatible ingestion and query APIs, Basic Authentication, self-monitoring, and durable storage.
 
 ## Access VMUI
 
