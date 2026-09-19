@@ -16,7 +16,7 @@ Hosting VictoriaMetrics provides durable storage and fast queries for infrastruc
 
 ## Dependencies for VictoriaMetrics Hosting
 
-- VictoriaMetrics single-node v1.151.0
+- VictoriaMetrics single-node v1.152.0
 - A Railway volume mounted at `/victoria-metrics-data`
 - Railway HTTPS networking on port `8428`
 
